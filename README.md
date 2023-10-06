@@ -19,14 +19,6 @@
                     </small>
                 </p>
             </th>
-            <th align="left">
-                <img width="140" height="1">
-                <p align="left"> 
-                    <small>
-                    RELEASE DATE
-                    </small>
-                </p>
-            </th>
             <th align="center">
                 <img width="201" height="1">
                 <p align="center"> 
@@ -41,7 +33,6 @@
         <tr>
             <td>10</td>
             <td><a href="10">Uma página de clima</a></td>
-            <td>15/03/23</td>
             <td align="center" ><a href="10"><img width="300px" src="desafio10/preview.jpg" /></a></td>
         </tr>
     </tbody>
