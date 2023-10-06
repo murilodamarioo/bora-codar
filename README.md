@@ -2,7 +2,7 @@
 
 <p align="center">
     Projetos #boraCodar da Rocketseat <br>
-    <br><table>
+    <br><table align="center">
     <thead>
         <tr>
             <th align="center">
