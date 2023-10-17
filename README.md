@@ -35,6 +35,12 @@
             <td><a href="desafio10">Uma página de clima</a></td>
             <td align="center" ><a href="10"><img width="300px" src="desafio10/preview.jpg" /></a></td>
         </tr>
+
+        <tr>
+            <td>20</td>
+            <td><a href="desafio10">Galeria</a></td>
+            <td align="center" ><a href="10"><img width="300px" src="desafio20/preview.jpg" /></a></td>
+        </tr>
     </tbody>
 </table>
 </p>
