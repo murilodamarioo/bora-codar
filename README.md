@@ -37,7 +37,7 @@
         </tr>
         <tr>
             <td>20</td>
-            <td><a href="02">Galeria</a></td>
+            <td><a href="desafio20">Galeria</a></td>
             <td align="center"><a href="02"><img width="300px" src="desafio20/preview.jpg" /></a></td>
         </tr>
     </tbody>
